@@ -1,7 +1,7 @@
 # 🔒 End-User License Agreement (EULA)
 
 **Effective Date:** August 28, 2025  
-**Licensor:** kernelpanicdreams and minechook
+**Licensor:** kernelpanicdreams
 **Software:** Serverside tiertagger minecraft plugin
 
 ---
